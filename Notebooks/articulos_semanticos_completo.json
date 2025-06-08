@@ -1,0 +1,127 @@
+[
+  {
+    "error": "No se pudo interpretar la respuesta como JSON",
+    "respuesta_cruda": "```json\n{\n  \"número de artículo\": 15,\n  \"título\": \"Derecho de acceso del interesado\",\n  \"tema principal\": \"Acceso a los datos personales\",\n  \"referencias normativas\": [\n    \"Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo\"\n  ],\n  \"relaciones normativas\": [\n    \"Modifica la forma en que se proporciona acceso a datos personales\",\n    \"Aplica a entidades que procesan datos personales dentro de la UE\"\n  ]\n}\n```",
+    "archivo_fuente": "guia_aepd_articulo_1.json"
+  },
+  {
+    "error": "No se pudo interpretar la respuesta como JSON",
+    "respuesta_cruda": "```json\n{\n  \"número de artículo\": \"18\",\n  \"título\": null,\n  \"tema principal\": \"Derecho de acceso y reclamaciones relacionadas bajo el RGPD\",\n  \"referencias normativas\": [\n    \"Reglamento General de Protección de Datos (RGPD)\",\n    \"Artículo 15 del RGPD\",\n    \"Artículo 5.1.e) del RGPD\",\n    \"Artículo 13 del RGPD\",\n    \"Artículo 60 del RGPD\",\n    \"Artículo 66.1 del RGPD\",\n    \"Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico (LSSI)\",\n    \"Artículo 22.2 de la LSSI\",\n    \"Artículo 44 del RGPD\",\n    \"Artículo 32 del RGPD\"\n  ],\n  \"relaciones normativas\": [\n    {\n      \"procedimiento\": \"PD/00029/2024\",\n      \"entidad\": \"Banco Bilbao Vizcaya Argentaria S.A.\",\n      \"acción\": \"Reclamación por derecho de acceso a datos personales\"\n    },\n    {\n      \"procedimiento\": \"PD/00248/2023\",\n      \"entidad\": \"Universidad de León\",\n      \"acción\": \"Reclamación por falta de respuesta en solicitud de acceso\"\n    },\n    {\n      \"procedimiento\": \"PD/00280/2023\",\n      \"entidad\": \"Digiman Alicante, S.L.\",\n      \"acción\": \"Reclamación por falta de contestación al derecho de acceso\"\n    },\n    {\n      \"procedimiento\": \"PS/00168/2023\",\n      \"entidad\": \"GlovoApp23\",\n      \"acción\": \"Sanción por infracción del artículo 15 del RGPD\"\n    },\n    {\n      \"procedimiento\": \"PA/00038/2023\",\n      \"entidad\": \"JCDecaux España, S.L.U.\",\n      \"acción\": \"Apercibimiento por solicitud de supresión no atendida\"\n    },\n    {\n      \"procedimiento\": \"PS/00154/2024\",\n      \"entidad\": \"OK Mobility España, S.L.\",\n      \"acción\": \"Procedimiento sancionador transfronterizo\"\n    },\n    {\n      \"procedimiento\": \"PS/00524/2023\",\n      \"entidad\": \"Techpump Solutions, S.L.\",\n      \"acción\": \"Infracción de política de cookies\"\n    },\n    {\n      \"procedimiento\": \"PS/00490/2023\",\n      \"entidad\": \"NH Hotel Group\",\n      \"acción\": \"Sanción por instalaciones de cookies sin consentimiento\"\n    },\n    {\n      \"procedimiento\": \"PA/00052/2023\",\n      \"entidad\": \"Fábrica Nacional de la Moneda y Timbre - Real Casa de la Moneda\",\n      \"acción\": \"Infracción del artículo 44 del RGPD\"\n    },\n    {\n      \"procedimiento\": \"PS/00447/2023\",\n      \"entidad\": \"DIMAGAZA, S.L.\",\n      \"acción\": \"Publicación de datos personales en tablón de anuncios\"\n    }\n  ]\n}\n```",
+    "archivo_fuente": "guia_aepd_articulo_2.json"
+  },
+  {
+    "error": "No se pudo interpretar la respuesta como JSON",
+    "respuesta_cruda": "```json\n{\n    \"número de artículo\": \"5.1.f)\",\n    \"título\": null,\n    \"tema principal\": \"Protección de datos personales\",\n    \"referencias normativas\": [\n        \"Reglamento General de Protección de Datos (RGPD)\"\n    ],\n    \"relaciones normativas\": {\n        \"se aplica a\": \"Exposición de datos personales en internet\",\n        \"sanciones\": \"Multa de 800.000\"\n    }\n}\n```",
+    "archivo_fuente": "guia_aepd_articulo_3.json"
+  },
+  {
+    "error": "No se pudo interpretar la respuesta como JSON",
+    "respuesta_cruda": "```json\n{\n  \"número_de_artículo\": 32,\n  \"título\": null,\n  \"tema_principal\": \"Falta de medidas de seguridad básicas\",\n  \"referencias_normativas\": \"Reglamento General de Protección de Datos (RGPD)\",\n  \"relaciones_normativas\": {\n    \"sanciones\": \"Multa de 800.000\"\n  }\n}\n```",
+    "archivo_fuente": "guia_aepd_articulo_4.json"
+  },
+  {
+    "error": "No se pudo interpretar la respuesta como JSON",
+    "respuesta_cruda": "```json\n{\n  \"número_de_artículo\": \"Artículo 25\",\n  \"título\": null,\n  \"tema_principal\": \"Protección de datos por diseño y por defecto\",\n  \"referencias_normativas\": [\n    \"Reglamento General de Protección de Datos (RGPD)\"\n  ],\n  \"relaciones_normativas\": []\n}\n```",
+    "archivo_fuente": "guia_aepd_articulo_5.json"
+  },
+  {
+    "error": "No se pudo interpretar la respuesta como JSON",
+    "respuesta_cruda": "```json\n{\n  \"numero_de_articulo\": 2,\n  \"titulo\": \"Ámbito de aplicación funcional\",\n  \"tema_principal\": \"Determinación del alcance y exclusiones del convenio sobre los trabajadores afectados y excluidos.\",\n  \"referencias_normativas\": [\n    {\n      \"referencia\": \"Artículo 2.1.a del Estatuto de los Trabajadores\",\n      \"descripcion\": \"Relativa al personal de alta dirección.\"\n    },\n    {\n      \"referencia\": \"Ley de Propiedad Intelectual\",\n      \"descripcion\": \"Regulaciones sobre autores en su relación con la empresa.\"\n    }\n  ],\n  \"relaciones_normativas\": [\n    {\n      \"tipo\": \"exclusión\",\n      \"aplica_a\": [\n        \"Directores, subdirectores y personal de alta dirección\",\n        \"Agentes comerciales, publicitarios y profesionales liberales\",\n        \"Personas con contrato civil o mercantil no regulado por normativa laboral\",\n        \"Autores en el marco de la Ley de Propiedad Intelectual\",\n        \"Músicos, cantantes, orquestas y agrupaciones musicales con contratos específicos\",\n        \"Trabajadores de terceras empresas distintas a la UTE\"\n      ]\n    }\n  ]\n}\n```",
+    "archivo_fuente": "ley_13500_andalucia_articulo_1.json"
+  },
+  {
+    "error": "No se pudo interpretar la respuesta como JSON",
+    "respuesta_cruda": "```json\n{\n  \"número de artículo\": 3,\n  \"título\": \"Ámbito territorial\",\n  \"tema principal\": \"Aplicación territorial del convenio\",\n  \"referencias normativas\": [],\n  \"relaciones normativas\": [\n    {\n      \"relación\": \"aplica a\",\n      \"detalle\": \"todos los centros de trabajo de la UTE en la Comunidad de Madrid\"\n    }\n  ]\n}\n```",
+    "archivo_fuente": "ley_13500_andalucia_articulo_2.json"
+  },
+  {
+    "error": "No se pudo interpretar la respuesta como JSON",
+    "respuesta_cruda": "```json\n{\n  \"número de artículo\": 4,\n  \"título\": \"Ámbito Temporal\",\n  \"tema principal\": \"Vigencia y Prórroga del Convenio Colectivo\",\n  \"referencias normativas\": [\n    \"Boletín Oficial de la Comunidad de Madrid, núm. 135, 7 de junio de 2025, BOCM-20250607-1\"\n  ],\n  \"relaciones normativas\": {\n    \"modifica\": null,\n    \"deroga\": null,\n    \"aplica a\": \"Este convenio colectivo se aplicará durante el periodo especificado y regirá las relaciones laborales hasta que se acuerde un nuevo convenio.\"\n  }\n}\n```",
+    "archivo_fuente": "ley_13500_andalucia_articulo_3.json"
+  },
+  {
+    "error": "No se pudo interpretar la respuesta como JSON",
+    "respuesta_cruda": "```json\n{\n  \"número de artículo\": 5,\n  \"título\": \"Revisión Económica\",\n  \"tema principal\": \"Incremento salarial para el año 2025\",\n  \"referencias normativas\": null,\n  \"relaciones normativas\": {\n    \"modifica\": \"Tablas salariales\",\n    \"aplica a\": \"Salario base de tablas y complemento ad personam\"\n  }\n}\n```",
+    "archivo_fuente": "ley_13500_andalucia_articulo_4.json"
+  },
+  {
+    "error": "No se pudo interpretar la respuesta como JSON",
+    "respuesta_cruda": "```json\n{\n  \"número de artículo\": 6,\n  \"título\": \"Vinculación a la totalidad\",\n  \"tema principal\": \"Aplicación y eficacia de las condiciones del convenio colectivo\",\n  \"referencias normativas\": null,\n  \"relaciones normativas\": {\n    \"modifica\": null,\n    \"deroga\": null,\n    \"aplica a\": \"Convenio colectivo en caso de nulidad o modificación\",\n    \"sustituido_por\": \"Nueva negociación del convenio colectivo tras nulidad/ineficacia total o parcial\"\n  }\n}\n```",
+    "archivo_fuente": "ley_13500_andalucia_articulo_5.json"
+  },
+  {
+    "error": "No se pudo interpretar la respuesta como JSON",
+    "respuesta_cruda": "```json\n{\n  \"número de artículo\": 1,\n  \"título\": \"Objeto de la Ley\",\n  \"tema principal\": \"Establecimiento del objeto de la ley\",\n  \"referencias normativas\": [],\n  \"relaciones normativas\": []\n}\n```",
+    "archivo_fuente": "lopdgdd_2018_articulo_1.json"
+  },
+  {
+    "error": "No se pudo interpretar la respuesta como JSON",
+    "respuesta_cruda": "```json\n{\n  \"número de artículo\": \"2\",\n  \"título\": \"Ámbito de aplicación de los Títulos I a IX y de los artículos 89 a 94\",\n  \"tema principal\": \"Ámbito de aplicación\",\n  \"referencias normativas\": [\"Títulos I a IX\", \"Artículos 89 a 94\"],\n  \"relaciones normativas\": {}\n}\n```",
+    "archivo_fuente": "lopdgdd_2018_articulo_2.json"
+  },
+  {
+    "error": "No se pudo interpretar la respuesta como JSON",
+    "respuesta_cruda": "```json\n{\n  \"número de artículo\": 3,\n  \"título\": \"Datos de las personas fallecidas\",\n  \"tema principal\": \"Protección de datos personales\",\n  \"referencias normativas\": null,\n  \"relaciones normativas\": {\n    \"modifica\": null,\n    \"deroga\": null,\n    \"aplica a\": null\n  }\n}\n```",
+    "archivo_fuente": "lopdgdd_2018_articulo_3.json"
+  },
+  {
+    "error": "No se pudo interpretar la respuesta como JSON",
+    "respuesta_cruda": "```json\n{\n  \"número de artículo\": 4,\n  \"título\": \"Exactitud de los datos\",\n  \"tema principal\": \"Exactitud de los datos\",\n  \"referencias normativas\": [],\n  \"relaciones normativas\": []\n}\n```",
+    "archivo_fuente": "lopdgdd_2018_articulo_4.json"
+  },
+  {
+    "error": "No se pudo interpretar la respuesta como JSON",
+    "respuesta_cruda": "```json\n{\n  \"número de artículo\": 5,\n  \"título\": \"Deber de Confidencialidad\",\n  \"tema principal\": \"Confidencialidad de la información\",\n  \"referencias normativas\": [],\n  \"relaciones normativas\": {}\n}\n```",
+    "archivo_fuente": "lopdgdd_2018_articulo_5.json"
+  },
+  {
+    "error": "No se pudo interpretar la respuesta como JSON",
+    "respuesta_cruda": "```json\n{\n  \"número de artículo\": 1,\n  \"título\": \"Objeto\",\n  \"tema principal\": \"Definición del objeto de la normativa\",\n  \"referencias normativas\": [],\n  \"relaciones normativas\": []\n}\n```",
+    "archivo_fuente": "lopd_1999_articulo_1.json"
+  },
+  {
+    "error": "No se pudo interpretar la respuesta como JSON",
+    "respuesta_cruda": "```json\n{\n  \"número de artículo\": \"2\",\n  \"título\": \"Ámbito de aplicación\",\n  \"tema principal\": \"Define el ámbito de aplicación de la norma especificando las situaciones, sujetos o territorios que cubre.\",\n  \"referencias normativas\": [],\n  \"relaciones normativas\": []\n}\n```",
+    "archivo_fuente": "lopd_1999_articulo_2.json"
+  },
+  {
+    "error": "No se pudo interpretar la respuesta como JSON",
+    "respuesta_cruda": "```json\n{\n  \"número de artículo\": 3,\n  \"título\": \"Definiciones\",\n  \"tema principal\": \"Definiciones en el contexto de la normativa\",\n  \"referencias normativas\": null,\n  \"relaciones normativas\": null\n}\n```",
+    "archivo_fuente": "lopd_1999_articulo_3.json"
+  },
+  {
+    "error": "No se pudo interpretar la respuesta como JSON",
+    "respuesta_cruda": "```json\n{\n  \"número de artículo\": 4,\n  \"título\": \"Calidad de los datos\",\n  \"tema principal\": \"Gestión y calidad de los datos\",\n  \"referencias normativas\": null,\n  \"relaciones normativas\": null\n}\n```",
+    "archivo_fuente": "lopd_1999_articulo_4.json"
+  },
+  {
+    "error": "No se pudo interpretar la respuesta como JSON",
+    "respuesta_cruda": "```json\n{\n  \"número de artículo\": \"5\",\n  \"título\": \"Derecho de información en la recogida de datos\",\n  \"tema principal\": \"Derecho de información\",\n  \"referencias normativas\": [],\n  \"relaciones normativas\": []\n}\n```",
+    "archivo_fuente": "lopd_1999_articulo_5.json"
+  },
+  {
+    "error": "No se pudo interpretar la respuesta como JSON",
+    "respuesta_cruda": "```json\n{\n    \"número de artículo\": \"1\",\n    \"título\": \"Objeto\",\n    \"tema principal\": \"Protección de datos personales y libre circulación de los mismos\",\n    \"referencias normativas\": [],\n    \"relaciones normativas\": []\n}\n```",
+    "archivo_fuente": "rgpd_articulo_1.json"
+  },
+  {
+    "error": "No se pudo interpretar la respuesta como JSON",
+    "respuesta_cruda": "```json\n{\n  \"número_de_artículo\": 2,\n  \"título\": \"Ámbito de Aplicación Material\",\n  \"tema_principal\": \"Tratamiento de Datos Personales\",\n  \"referencias_normativas\": [\n    \"Reglamento (CE) N.o 45/2001\",\n    \"Directiva 2000/31/CE\"\n  ],\n  \"relaciones_normativas\": [\n    {\n      \"tipo\": \"aplicación\",\n      \"a\": \"tratamiento total o parcialmente automatizado de datos personales\"\n    },\n    {\n      \"tipo\": \"exclusión de aplicación\",\n      \"a\": [\n        \"actividad no comprendida en el ámbito de aplicación del Derecho de la Unión\",\n        \"actividades comprendidas en el capítulo 2 del título V del TUE\",\n        \"actividades exclusivamente personales o domésticas\",\n        \"autoridades competentes con fines de prevención, investigación, detección o enjuiciamiento de infracciones penales\"\n      ]\n    },\n    {\n      \"tipo\": \"modificación\",\n      \"de\": \"Reglamento (CE) N.o 45/2001\",\n      \"según\": \"artículo 98 del presente reglamento\"\n    },\n    {\n      \"tipo\": \"sin perjuicio de la aplicación\",\n      \"de\": \"Directiva 2000/31/CE\"\n    }\n  ]\n}\n```",
+    "archivo_fuente": "rgpd_articulo_2.json"
+  },
+  {
+    "error": "No se pudo interpretar la respuesta como JSON",
+    "respuesta_cruda": "```json\n{\n  \"número de artículo\": 3,\n  \"título\": \"Ámbito Territorial\",\n  \"tema principal\": \"Aplicación territorial del reglamento sobre el tratamiento de datos personales\",\n  \"referencias normativas\": [\n    {\n      \"documento\": \"Diario Oficial de la Unión Europea\",\n      \"fecha\": \"4.5.2016\",\n      \"identificador\": \"L 119/32\"\n    }\n  ],\n  \"relaciones normativas\": [\n    {\n      \"tipo\": \"aplica a\",\n      \"detalle\": \"Tratamiento de datos personales en el contexto de actividades en la Unión Europea y fuera de ella\"\n    }\n  ]\n}\n```",
+    "archivo_fuente": "rgpd_articulo_3.json"
+  },
+  {
+    "error": "No se pudo interpretar la respuesta como JSON",
+    "respuesta_cruda": "```json\n{\n  \"numero_de_articulo\": 4,\n  \"titulo\": \"Definiciones\",\n  \"tema_principal\": \"Regulación de términos y conceptos clave relacionados con la protección de datos personales\",\n  \"referencias_normativas\": [\n    {\n      \"titulo\": \"Directiva (UE) 2015/1535 del Parlamento Europeo y del Consejo\",\n      \"articulo\": \"Artículo 1, apartado 1, letra b\"\n    }\n  ],\n  \"relaciones_normativas\": [\n    {\n      \"tipo\": \"aplicaciones\",\n      \"descripcion\": \"A efectos del presente reglamento, estas definiciones se aplican a las disposiciones contenidas en el reglamento.\"\n    },\n    {\n      \"tipo\": \"referencias\",\n      \"descripcion\": \"Conforme con las normas en materia de protección de datos aplicables en la Unión Europea.\"\n    }\n  ]\n}\n```",
+    "archivo_fuente": "rgpd_articulo_4.json"
+  },
+  {
+    "error": "No se pudo interpretar la respuesta como JSON",
+    "respuesta_cruda": "```json\n{\n  \"número de artículo\": 5,\n  \"título\": \"Principios relativos al tratamiento\",\n  \"tema principal\": \"Principios de protección de datos personales\",\n  \"referencias normativas\": [\n    {\n      \"norma\": \"Directiva (UE) 2015/1535\",\n      \"autoridad\": \"Parlamento Europeo y del Consejo\",\n      \"fecha\": \"9 de septiembre de 2015\",\n      \"DO\": \"L 241 de 17.9.2015, p. 1\"\n    }\n  ],\n  \"relaciones normativas\": [\n    {\n      \"tipo\": \"conformidad\",\n      \"referencia\": \"Artículo 89, apartado 1\"\n    },\n    {\n      \"tipo\": \"aplicación\",\n      \"referencia\": \"Presente reglamento\"\n    }\n  ]\n}\n```",
+    "archivo_fuente": "rgpd_articulo_5.json"
+  }
+]
