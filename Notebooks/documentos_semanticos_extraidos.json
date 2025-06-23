@@ -1,0 +1,119 @@
+{
+  "LOPDGDD_2018": {
+    "metadatos": {
+      "nombre": "LOPDGDD_2018",
+      "url": "https://raw.githubusercontent.com/JuanC-1976/TFM-R46-GrafosLegales/main/BOE-A-2018-16673.pdf",
+      "tipo_documento": "Ley Orgánica",
+      "fecha_publicacion": "2018-12-06",
+      "entidad_normativa": "BOE",
+      "es_oficial": true
+    },
+    "extraccion": {
+      "documento": "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales",
+      "tipo": "Ley",
+      "fecha": "2018-12-05",
+      "vigente": true,
+      "relaciones": [
+        {
+          "tipo": "deroga",
+          "documento": "Ley Orgánica 15/1999, de Protección de Datos de Carácter Personal"
+        },
+        {
+          "tipo": "aplica_a",
+          "tema": "protección de datos"
+        }
+      ]
+    }
+  },
+  "RGPD": {
+    "metadatos": {
+      "nombre": "RGPD",
+      "url": "https://raw.githubusercontent.com/JuanC-1976/TFM-R46-GrafosLegales/main/CELEX_32016R0679_ES_TXT.pdf",
+      "tipo_documento": "Reglamento Europeo",
+      "fecha_publicacion": "2016-04-27",
+      "entidad_normativa": "Parlamento Europeo",
+      "es_oficial": true
+    },
+    "extraccion": {
+      "documento": "Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo",
+      "tipo": "Reglamento",
+      "fecha": "2016-04-27",
+      "vigente": true,
+      "relaciones": [
+        {
+          "tipo": "deroga",
+          "documento": "Directiva 95/46/CE del Parlamento Europeo y del Consejo"
+        }
+      ]
+    }
+  },
+  "GUIA_AEPD": {
+    "metadatos": {
+      "nombre": "GUIA_AEPD",
+      "url": "https://raw.githubusercontent.com/JuanC-1976/TFM-R46-GrafosLegales/main/memoria-aepd-2024.pdf",
+      "tipo_documento": "Guía Técnica",
+      "fecha_publicacion": "2022-01-15",
+      "entidad_normativa": "AEPD",
+      "es_oficial": false
+    },
+    "extraccion": {
+      "documento": "MEMORIA ANUAL 2024",
+      "tipo": "memoria",
+      "fecha": "2024",
+      "vigente": true,
+      "relaciones": [
+        {
+          "tipo": "aplica_a",
+          "tema": "protección de datos"
+        },
+        {
+          "tipo": "deroga",
+          "documento": "Reglamento de Inteligencia Artificial (RIA)"
+        },
+        {
+          "tipo": "modifica",
+          "documento": "Reglamento eIDAS2"
+        }
+      ]
+    }
+  },
+  "Ley_Organica_15_1999": {
+    "metadatos": {
+      "nombre": "Ley_Organica_15_1999",
+      "url": "https://raw.githubusercontent.com/JuanC-1976/TFM-R46-GrafosLegales/main/BOE-A-1999-23750-consolidado.pdf",
+      "tipo_documento": "Ley Orgánica (derogada)",
+      "fecha_publicacion": "1999-12-14",
+      "entidad_normativa": "BOE",
+      "es_oficial": true
+    },
+    "extraccion": {
+      "documento": "Ley Orgánica 15/1999, de Protección de Datos de Carácter Personal",
+      "tipo": "Ley",
+      "fecha": "1999-12-13",
+      "vigente": false,
+      "relaciones": [
+        {
+          "tipo": "deroga",
+          "documento": "Ley Orgánica 3/2018, Ley Orgánica 15/1999, de Protección de Datos de Carácter Personal"
+        }
+      ]
+    }
+  },
+  "Ley_13500_Andalucia": {
+    "metadatos": {
+      "nombre": "Ley_13500_Andalucia",
+      "url": "https://raw.githubusercontent.com/JuanC-1976/TFM-R46-GrafosLegales/main/13500.pdf",
+      "tipo_documento": "Ley Autonómica",
+      "fecha_publicacion": "2022-03-10",
+      "entidad_normativa": "Junta de Andalucía",
+      "es_oficial": true
+    },
+    "extraccion": {
+      "documento": "Convenio colectivo de la empresa Telefónica Broadcast Services, S. L. U.-Supersport Television S. L. U.",
+      "tipo": "Convenio colectivo",
+      "fecha": "2025-05-16",
+      "vigente": true,
+      "relaciones": []
+    }
+  }
+}
